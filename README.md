@@ -1,1 +1,3 @@
-# Web-Dev-All-html-css-javascript-
+AS SUNNAH FOUNDATION WEB DEVLOPMENT BATCH -01
+
+Practise file of MAHAMUDUL HASAN MITHUN.
